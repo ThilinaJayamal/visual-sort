@@ -55,11 +55,5 @@ This project is a simple web-based application built using **React** that helps 
 - Provide real-time analysis of time complexity and comparison counts.
 - Add speed control to adjust the sorting speed dynamically.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 Feel free to customize this further depending on your project and preferences!
 ![Screenshot (127)](https://github.com/user-attachments/assets/d44a9077-03cd-4524-8c21-e771c1cf854b)
