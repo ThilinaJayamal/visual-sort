@@ -19,12 +19,12 @@ This project is a simple web-based application built using **React** that helps 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/sorting-visualizer.git
+    git clone https://github.com/ThilinaJayamal/visual-sort.git
     ```
 
 2. Navigate to the project folder:
     ```bash
-    cd sorting-visualizer
+    cd visual-sort
     ```
 
 3. Install dependencies:
