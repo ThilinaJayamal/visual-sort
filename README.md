@@ -1,7 +1,3 @@
-Here’s a sample description you can use for your GitHub `README.md` file:
-
----
-
 # Visual-Sort
 
 This project is a simple web-based application built using **React** that helps visualize different sorting algorithms, such as **Selection Sort**, **Insertion Sort**, and **Bubble Sort**. The user can select any of the algorithms to see the sorting process step-by-step with a 2-second delay for each comparison. The application also features a colorful and dynamic UI where each number has a different height and color for easy visualization.
